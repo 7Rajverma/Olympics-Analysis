@@ -1,9 +1,9 @@
 # Olympics-Analysis
 
 ## Overview 
-    ##### This project is a Streamlit-based web application for analyzing historical Olympic data. The 
-    ##### application provides insights into medal tallies, country-wise and athlete-wise performance, 
-    ##### and various statistical analyses.
+       This project is a Streamlit-based web application for analyzing historical Olympic data. The 
+       application provides insights into medal tallies, country-wise and athlete-wise performance, 
+       and various statistical analyses.
 
 ## Features 
    • Medal Tally: View Olympic medal counts by year and country.
