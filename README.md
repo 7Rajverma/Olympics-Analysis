@@ -7,9 +7,11 @@
 
 ## Features 
    • Medal Tally: View Olympic medal counts by year and country.
-   • Overall Analysis: Get statistics on editions, host cities, sports, events, athletes, and          nations.
+   • Overall Analysis: Get statistics on editions, host cities, sports, events, athletes, and nations.
    • Country-wise Analysis: Analyze a country's Olympic performance over the years.
-   • Athlete-wise Analysis: Study athlete age distributions, weight vs. height statistics, and         gender participation trends.
+   • Athlete-wise Analysis: Study athlete age distributions, weight vs. height statistics, and gender participation trends.
+   ![Screenshot 2025-02-14 223220](https://github.com/user-attachments/assets/c0a59383-229e-4684-84f1-930e7dfbfdfe)
+
     
 ## Technologies Used
      • Python
