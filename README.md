@@ -11,6 +11,14 @@
    • Country-wise Analysis: Analyze a country's Olympic performance over the years.
    • Athlete-wise Analysis: Study athlete age distributions, weight vs. height statistics, and gender participation trends.
    ![Screenshot 2025-02-14 223220](https://github.com/user-attachments/assets/c0a59383-229e-4684-84f1-930e7dfbfdfe)
+   ![Screenshot 2025-02-15 144845](https://github.com/user-attachments/assets/6dc42243-c3e4-4d80-9e46-bd9d3539de76)
+   ![Screenshot 2025-02-15 144927](https://github.com/user-attachments/assets/05b61a20-89f3-466a-9a7c-96bf3f3cc96e)
+   ![Screenshot 2025-02-15 144947](https://github.com/user-attachments/assets/f6b9630c-cde4-42eb-80d2-86261ef88c0b)
+   ![Screenshot 2025-02-15 145218](https://github.com/user-attachments/assets/399be661-2714-430c-9b7a-d17ef5d45ed2)
+
+
+
+
 
     
 ## Technologies Used
